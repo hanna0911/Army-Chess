@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>default_background.jpg</file>
+        <file>empty_chessboard.png</file>
+    </qresource>
+    <qresource prefix="/chesspieces">
+        <file>000.png</file>
+        <file>001.png</file>
+        <file>002.png</file>
+        <file>003.png</file>
+        <file>004.png</file>
+        <file>005.png</file>
+        <file>006.png</file>
+        <file>007.png</file>
+        <file>008.png</file>
+        <file>009.png</file>
+        <file>010.png</file>
+        <file>011.png</file>
+        <file>100.png</file>
+        <file>101.png</file>
+        <file>102.png</file>
+        <file>103.png</file>
+        <file>104.png</file>
+        <file>105.png</file>
+        <file>106.png</file>
+        <file>107.png</file>
+        <file>108.png</file>
+        <file>109.png</file>
+        <file>110.png</file>
+        <file>111.png</file>
+    </qresource>
+    <qresource prefix="/other">
+        <file>none.png</file>
+        <file>safe_shelter.png</file>
+        <file>unknown.png</file>
+        <file>Transparent.PNG</file>
+    </qresource>
+</RCC>
